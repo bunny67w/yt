@@ -7,6 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
+        background: '#0F0F0F',
+        foreground: '#F9F9F9',
+        border: '#333333',
         youtube: {
           red: '#FF0000',
           dark: '#0F0F0F',
